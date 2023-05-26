@@ -1,4 +1,4 @@
-git init
+gitgit init
 git remote add origin link
 
 create .gitignore
